@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 3.1.0?>
+
+<ManagedProjectBuildInfo>
+<project id="k_timer.cdt.managedbuild.target.gnu.arm.elf.exe.1672795649" name="PizzaFactory loadable (arm-elf)" projectType="cdt.managedbuild.target.gnu.arm.elf.exe">
+<configuration artifactExtension="out" artifactName="k_timer" cleanCommand="rm -rf" description="" errorParsers="org.eclipse.cdt.core.MakeErrorParser;org.eclipse.cdt.core.GCCErrorParser;org.eclipse.cdt.core.GLDErrorParser;org.eclipse.cdt.core.GASErrorParser" id="pizza.managedbuild.config.gnu.arm.elf.exe.debug.1269084034" name="Debug-Freestanding-AT91SAM7S" parent="pizza.managedbuild.config.gnu.arm.elf.exe.debug">
+<toolChain id="pizza.freestanding.armv4.at91sam7s.toolchain.gnu.arm.elf.exe.debug.1472331694" name="PizzaFactory" superClass="pizza.freestanding.armv4.at91sam7s.toolchain.gnu.arm.elf.exe.debug">
+<tool id="pizza.managedbuild.tool.gnu.c.compiler.arm.elf.exe.debug.869632631" name="GCC C Compiler" superClass="pizza.managedbuild.tool.gnu.c.compiler.arm.elf.exe.debug"/>
+<tool id="pizza.managedbuild.tool.gnu.cpp.compiler.arm.elf.exe.debug.625845472" name="GCC C++ Compiler" superClass="pizza.managedbuild.tool.gnu.cpp.compiler.arm.elf.exe.debug"/>
+<tool id="pizza.freestanding.armv4.at91sam7s.tool.gnu.c.linker.arm.elf.exe.debug.297100313" name="GCC C Linker" superClass="pizza.freestanding.armv4.at91sam7s.tool.gnu.c.linker.arm.elf.exe.debug"/>
+<tool id="pizza.managedbuild.tool.gnu.cpp.linker.arm.elf.exe.debug.509684142" name="GCC C++ Linker" superClass="pizza.managedbuild.tool.gnu.cpp.linker.arm.elf.exe.debug"/>
+<tool id="pizza.managedbuild.tool.gnu.assembler.arm.elf.exe.debug.1545234666" name="GCC Assembler" superClass="pizza.managedbuild.tool.gnu.assembler.arm.elf.exe.debug"/>
+<tool id="jp.pizzafactory.crosschains.arm.elf.objcopy.exe.debug.1453607939" name="GNU Objcopy" superClass="jp.pizzafactory.crosschains.arm.elf.objcopy.exe.debug"/>
+</toolChain>
+</configuration>
+</project>
+</ManagedProjectBuildInfo>
